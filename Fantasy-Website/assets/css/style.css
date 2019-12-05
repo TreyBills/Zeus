@@ -1,0 +1,95 @@
+.navbar-brand{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+    
+
+#jumbotron-one {
+    background-image: url("../images/book-2152349_1920.jpg");
+    background-size: cover;
+    
+    
+  }
+
+.display-5{
+padding-top: 500px;
+color: greenyellow;
+}
+
+.lead{
+    color: greenyellow;
+}
+
+body{
+    background-color: black !important;
+}
+
+#col-one{
+    color: cornsilk;
+   background-color: brown;
+    padding: 5px 5px 20px 5px;
+    margin-bottom: 50px;
+}
+
+.footer-copyright{
+    color: green;
+   
+}
+
+/* About Me*/
+
+#col-two{
+    color: cornsilk;
+   background-color: brown;
+    padding: 5px 5px 20px 5px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+#img {
+    float: left;
+    margin-right: 1px;
+    
+}
+  
+  #row {
+    display: flex;
+    margin-top: 50px;
+  }
+
+  /* Sirens Call*/
+
+  #jumbotron-two{
+    background-image: url("../images/fantasy-4164734_1920.jpg");
+    background-size: cover;
+  }
+
+  .carousel{
+
+  }
+
+  /* Short Stories */
+
+  #jumbotron-three{
+    background-image: url("../images/ShortStory-cover.jpg");
+    background-size: cover;
+  }
+
+  .carousel{
+
+  }
+
+  /* Mini Stories*/
+
+  #jumbotron-four{
+    background-image: url("../images/miniStory-cover.jpg");
+    background-size: cover;
+  }
+
+  .carousel{
+
+  }
